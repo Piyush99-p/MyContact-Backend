@@ -55,6 +55,7 @@ Backend for MyContact using Node.js
 ## 🤝 Contributing  
 Feel free to open issues or submit pull requests if you’d like to contribute!  
 
-## 💏 Contact  
+## 💏 Contact
+**Name: Piyush Prasad**  
 For any queries or suggestions, reach out at:  
 ✉️ **piyushprasad0902@gmail.com**  
