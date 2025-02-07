@@ -5,7 +5,7 @@ Backend for MyContact using Node.js
 - ✅ CRUD Operations (Create, Read, Update, Delete) for managing contacts  
 - ✅ RESTful API using Express.js  
 - ✅ MongoDB integration for data storage  
-- ✅ Authentication & Authorization (if applicable)  
+- ✅ Authentication & Authorization  
 - ✅ Error Handling & Validation  
 
 ## 🛠️ Tech Stack  
