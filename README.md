@@ -12,7 +12,7 @@ Backend for MyContact using Node.js
 - **Node.js**  
 - **Express.js**  
 - **MongoDB** with **Mongoose**  
-- **JWT Authentication** (if implemented)  
+- **JWT Authentication** 
 - **dotenv** for environment variables  
 
 ## 📌 Installation  
